@@ -1,6 +1,6 @@
 {
   "name": "vibe-sort-util",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vibe sort with O(n^(vibes)) time complexity",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
