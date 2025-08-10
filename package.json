@@ -1,0 +1,33 @@
+{
+  "name": "vibe-sort",
+  "version": "0.0.1",
+  "description": "Vibe sort with O(n^(vibes)) time complexity",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch",
+    "vibecheck": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amalej/vibe-sort.git"
+  },
+  "keywords": [
+    "vibe",
+    "sort"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amalej/vibe-sort/issues"
+  },
+  "homepage": "https://github.com/amalej/vibe-sort#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node-fetch": "^2.6.13",
+    "jest": "^30.0.5",
+    "ts-jest": "^29.4.1",
+    "typescript": "^5.9.2"
+  }
+}
