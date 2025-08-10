@@ -1,5 +1,5 @@
 {
-  "name": "vibesort",
+  "name": "vibe-sort-util",
   "version": "0.0.1",
   "description": "Vibe sort with O(n^(vibes)) time complexity",
   "main": "lib/index.js",
@@ -11,18 +11,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amalej/vibesort.git"
+    "url": "git+https://github.com/amalej/vibe-sort-util.git"
   },
+  "files": [
+    "lib"
+  ],
   "keywords": [
     "vibe",
-    "sort"
+    "sort",
+    "util"
   ],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amalej/vibesort/issues"
+    "url": "https://github.com/amalej/vibe-sort-util/issues"
   },
-  "homepage": "https://github.com/amalej/vibesort#readme",
+  "homepage": "https://github.com/amalej/vibe-sort-util#readme",
   "devDependencies": {
     "@types/jest": "^30.0.0",
     "@types/node-fetch": "^2.6.13",

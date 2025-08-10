@@ -1,6 +1,6 @@
 import { vibeSort } from "../src/index";
 
-describe("vibesort", () => {
+describe("vibe sort", () => {
   test("should sort a list of numbers in ascending order", async () => {
     const arr = [8, 3, 10, 5, 1, 9, 7, 2, 4, 11];
     const sorted = await vibeSort(arr);
